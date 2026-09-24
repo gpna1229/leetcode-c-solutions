@@ -6,3 +6,7 @@
 *  Can Place Flowers
 *  Reverse Vowels of a String
 *  Reverse Words in a String
+
+## Binary Search
+*  First Bad Version
+*  Guess Number Higher or Lower
