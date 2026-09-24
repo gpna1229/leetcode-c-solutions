@@ -1,4 +1,5 @@
 # Leetcode C Solutions
+![Leetcode Stats](https://leetcard.jacoblin.cool/gpna1229?ext=heatmap)
 ## Array / String
 *  Merge Strings Alternately
 *  Greatest Common Divisor of Strings
@@ -10,3 +11,4 @@
 ## Binary Search
 *  First Bad Version
 *  Guess Number Higher or Lower
+*  Search Insert Position
